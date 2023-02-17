@@ -1,0 +1,18 @@
+{
+  "title": {
+    "type": "string",
+    "required": true
+  },
+  "description": {
+    "type": "string",
+    "required": false
+  },
+  "draft": {
+    "type": "boolean",
+    "required": false
+  },
+  "order": {
+    "type": "number",
+    "required": true
+  }
+}
