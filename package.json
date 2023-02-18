@@ -1,6 +1,6 @@
 {
   "name": "@11tyrocks/eleventy-plugin-collection-schemas",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enforce a typed frontmatter schema for templates within an Eleventy collection.",
   "homepage": "",
   "main": ".eleventy.js",

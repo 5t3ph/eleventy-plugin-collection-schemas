@@ -28,7 +28,7 @@ npm install @11tyrocks/eleventy-plugin-collection-schemas
 Then, include it in your `.eleventy.js` config file:
 
 ```js
-const collectionSchemas = require("../eleventy-plugin-collection-schemas");
+const collectionSchemas = require("@11tyrocks/eleventy-plugin-collection-schemas");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.addPlugin(collectionSchemas);
